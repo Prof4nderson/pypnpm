@@ -1,0 +1,14 @@
+{
+  "project": "EarBuddy-ColdPath",
+  "engine": "pypnpm-v1",
+  "dependencies": {
+    "librosa": {
+      "version": "0.10.1",
+      "hash": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "fastapi": {
+      "version": "0.109.0",
+      "hash": "sha256:ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb"
+    }
+  }
+}
